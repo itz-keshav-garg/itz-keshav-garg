@@ -1,11 +1,18 @@
 ![logo](https://github.com/itz-keshav-garg/itz-keshav-garg/blob/main/Github%20Banner.png)
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+Keshav+Garg!;Computer+Science+Undergraduate;IoT+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  </a>
+</h1>
+
 # 💫 About Me:
 I'm a Computer Science undergraduate focused on building end-to-end technology systems that are practical, economically viable, and designed to solve real-world problems.<br><br>My work spans embedded electronics, IoT systems for real-time sensing and control, cloud-based backend infrastructure, web applications, and AI-powered automation. I enjoy combining these domains into integrated systems that are reliable, scalable, and built for practical use.<br><br>I believe meaningful technology is created through disciplined engineering, continuous learning, and consistent execution.<br><br>"Big ideas do not happen overnight. They are built through disciplined execution and sustained effort to become lasting legacies."
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_keshav_garg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/itzkeshavgarg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kgarg1740@gmail.com) 
 <br/>
+
 # 💻 Tech Stack
 
 ### Languages<br/>
@@ -24,7 +31,6 @@ I'm a Computer Science undergraduate focused on building end-to-end technology s
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 <br/>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=itz-keshav-garg&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
