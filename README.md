@@ -8,20 +8,17 @@
 
 # 💫 About Me:
 I'm a Computer Science undergraduate focused on building end-to-end technology systems that are practical, economically viable, and designed to solve real-world problems.<br><br>My work spans embedded electronics, IoT systems for real-time sensing and control, cloud-based backend infrastructure, web applications, and AI-powered automation. I enjoy combining these domains into integrated systems that are reliable, scalable, and built for practical use.<br><br>I believe meaningful technology is created through disciplined engineering, continuous learning, and consistent execution.<br><br>"Big ideas do not happen overnight. They are built through disciplined execution and sustained effort to become lasting legacies."
+## 🌐 Socials & Connect:
 
-## 🌐 Connect With Me:
+<a href="mailto:kgarg1740@gmail.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=20C20E&multiline=false&width=600&height=40&lines=Let%27s+Collaborate!+🤝;Drop+a+line+at+kgarg1740%40gmail.com;Let%27s+connect+on+LinkedIn+💼;Follow+the+journey+on+Instagram+📸" alt="Live Connect" />
+</a>
 
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/itzkeshavgarg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="48" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/itz_keshav_garg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="48" alt="Instagram" />
-  </a>
-  <a href="mailto:kgarg1740@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="48" alt="Gmail" />
-  </a>
-</p>
+<br/>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itz_keshav_garg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/itzkeshavgarg)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kgarg1740@gmail.com)
 
 # 💻 Tech Stack
 
