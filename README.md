@@ -12,6 +12,10 @@ I'm a Computer Science undergraduate focused on building end-to-end technology s
 ## 🌐 Connect With Me:
 
 <p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=20C20E&width=500&height=40&lines=%24+ping+keshav-garg...;%3E+Status%3A+Open+for+Collaboration+%E2%9C%A8" alt="Live Status" />
+</p>
+
+<p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/itzkeshavgarg" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="48" height="48" alt="LinkedIn" />
   </a>
