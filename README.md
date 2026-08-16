@@ -8,10 +8,21 @@
 
 # 💫 About Me:
 I'm a Computer Science undergraduate focused on building end-to-end technology systems that are practical, economically viable, and designed to solve real-world problems.<br><br>My work spans embedded electronics, IoT systems for real-time sensing and control, cloud-based backend infrastructure, web applications, and AI-powered automation. I enjoy combining these domains into integrated systems that are reliable, scalable, and built for practical use.<br><br>I believe meaningful technology is created through disciplined engineering, continuous learning, and consistent execution.<br><br>"Big ideas do not happen overnight. They are built through disciplined execution and sustained effort to become lasting legacies."
-## 🌐 Socials & Connect:
 
-<a href="mailto:kgarg1740@gmail.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=20C20E&multiline=false&width=600&height=40&lines=Let%27s+Collaborate!+🤝;Drop+a+line+at+kgarg1740%40gmail.com;Let%27s+connect+on+LinkedIn+💼;Follow+the+journey+on+Instagram+📸" alt="Live Connect" />
+## 🌐 Connect With Me:
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=20C20E&width=500&height=40&lines=%24+ping+keshav-garg...;%3E+LinkedIn%3A+%2Fin%2Fitzkeshavgarg;%3E+Email%3A+kgarg1740%40gmail.com;%3E+Instagram%3A+%40itz_keshav_garg;%3E+Status%3A+Open+for+Collaboration+%E2%9C%A8" alt="Live Status" />
+</p>
+
+<a href="https://linkedin.com/in/www.linkedin.com/in/itzkeshavgarg" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/itz_keshav_garg" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="mailto:kgarg1740@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/>
