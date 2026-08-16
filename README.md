@@ -29,10 +29,6 @@ I'm a Computer Science undergraduate focused on building end-to-end technology s
   </a>
 </p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itz_keshav_garg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/itzkeshavgarg)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kgarg1740@gmail.com)
-
 # 💻 Tech Stack
 
 ### Languages<br/>
